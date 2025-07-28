@@ -1,0 +1,24 @@
+What Is Content Discovery?
+first we should ask, in the coptext of web application security, what is content ?
+contesnt can be many thinks file video picture and other formats
+
+1.What is the Content Discovery method that begins with M?
+Manually
+
+2.what is the content discovery method htat began with a ?
+Automated
+
+3.what is the content discovery method that began woth o?
+osint
+
+Subdomain enumeration is the process of finding valid subdomains for a domain, but why do we do this? We do this to expand our attack surface to try and discover more potential points of vulnerability.
+We will explore three different subdomain enumeration methods: Brute Force, OSINT (Open-Source Intelligence) and Virtual Host.
+
+1.What is a subdomain enumeration method beginning with B?
+Brute Force
+
+2.What is a subdomain enumeration method beginning with O?
+OSINT
+
+3.What is a subdomain enumeration method beginning with V?
+Virtual Host
